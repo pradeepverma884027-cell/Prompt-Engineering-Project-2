@@ -1,0 +1,26 @@
+PROBLEM
+
+Lily pad doubles every day.
+
+FACTS
+
+- Full pond on Day 48
+
+POTENTIAL TRAPS
+
+- Dividing 48 by 2
+
+REASONING
+
+The pad doubles each day.
+
+Therefore, one day before full coverage,
+it must have covered half the pond.
+
+VERIFICATION
+
+Half × 2 = Full
+
+FINAL ANSWER
+
+Day 47
