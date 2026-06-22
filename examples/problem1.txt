@@ -1,0 +1,5 @@
+A bat and a ball cost ₹110.
+
+The bat costs ₹100 more than the ball.
+
+How much does the ball cost?
