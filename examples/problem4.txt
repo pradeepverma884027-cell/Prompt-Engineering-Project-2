@@ -1,0 +1,2 @@
+If 5 machines make 5 products in 5 minutes,
+how long will 100 machines take to make 100 products?
