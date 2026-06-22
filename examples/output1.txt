@@ -1,0 +1,23 @@
+FACTS
+
+Bat + Ball = 110
+Bat = Ball + 100
+
+REASONING
+
+(Ball + 100) + Ball = 110
+
+2Ball = 10
+
+Ball = 5
+
+Bat = 105
+
+VERIFICATION
+
+105 + 5 = 110
+
+FINAL ANSWER
+
+Ball = ₹5
+Bat = ₹105
