@@ -1,0 +1,28 @@
+PROBLEM
+
+A farmer has 17 sheep.
+All but 9 die.
+
+FACTS
+
+- Total sheep = 17
+- 9 sheep survive
+
+POTENTIAL TRAPS
+
+- Misinterpreting "all but 9"
+- Performing unnecessary subtraction
+
+REASONING
+
+All but 9 means all except 9 die.
+
+Therefore, 9 remain alive.
+
+VERIFICATION
+
+17 - 8 = 9 survivors
+
+FINAL ANSWER
+
+9 sheep are left.
