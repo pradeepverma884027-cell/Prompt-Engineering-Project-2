@@ -1,0 +1,28 @@
+PROBLEM
+
+A train travels 60 km in 1 hour.
+
+FACTS
+
+- Speed = 60 km/hr
+- Time = 5 hours
+
+POTENTIAL TRAPS
+
+- Using incorrect multiplication
+
+REASONING
+
+Distance = Speed × Time
+
+Distance = 60 × 5
+
+Distance = 300 km
+
+VERIFICATION
+
+60 + 60 + 60 + 60 + 60 = 300
+
+FINAL ANSWER
+
+300 km
