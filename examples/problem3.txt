@@ -1,0 +1,3 @@
+A train travels 60 km in 1 hour.
+
+How far will it travel in 5 hours at the same speed?
