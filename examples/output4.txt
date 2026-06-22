@@ -1,0 +1,26 @@
+PROBLEM
+
+5 machines make 5 products in 5 minutes.
+
+FACTS
+
+- Each machine makes 1 product in 5 minutes.
+
+POTENTIAL TRAPS
+
+- Multiplying everything together
+- Assuming more products require more time
+
+REASONING
+
+1 machine makes 1 product in 5 minutes.
+
+100 machines simultaneously make 100 products.
+
+VERIFICATION
+
+Production rate remains unchanged.
+
+FINAL ANSWER
+
+5 minutes
