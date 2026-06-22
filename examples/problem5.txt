@@ -1,0 +1,4 @@
+A lily pad doubles in size every day.
+
+If it covers the pond in 48 days,
+on which day was it half the pond?
